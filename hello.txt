@@ -8,3 +8,14 @@ Today I am learning:
 - Commit history
 
 I will continue learning GitHub step by step.
+My First Local Git Update
+
+I am now learning Git commands on Windows 11.
+
+I can:
+- Clone repositories
+- Edit files locally
+- Commit changes
+- Push changes to GitHub
+
+This is my first local update!
