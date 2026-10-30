@@ -1,5 +1,10 @@
-Hello World!
+Hello GitHub!
 
-My name is a GitHub learner.
+I have successfully completed my first GitHub exercise.
 
-This is my very first file!
+Today I am learning:
+- Editing files
+- Markdown
+- Commit history
+
+I will continue learning GitHub step by step.
